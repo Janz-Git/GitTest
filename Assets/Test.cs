@@ -6,7 +6,7 @@ public class Test : MonoBehaviour
 {
 
 
-    public string str = "Frist";
+    public string str = "Sencond";
     // Start is called before the first frame update
     void Start()
     {
